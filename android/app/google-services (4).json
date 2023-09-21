@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619036991519",
+    "project_id": "yudis-project3-42081",
+    "storage_bucket": "yudis-project3-42081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619036991519:android:243fbefd46bfc311f1352a",
+        "android_client_info": {
+          "package_name": "com.example.landing_page3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuIf2-qWlqPlm_jItmM5ZYjy2O-VtGpNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
